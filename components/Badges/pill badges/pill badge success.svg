@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58.16"
+   height="20.379999"
+   viewBox="0 0 15.388166 5.392208"
+   version="1.1"
+   id="svg241"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="pill badge success.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview243"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="9.5144352"
+     inkscape:cx="30.217243"
+     inkscape:cy="12.927725"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs238" /><g
+     inkscape:label="badge rounded-pill"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-95.353813,-110.99644)"><rect
+       inkscape:label="bg-success"
+       ry="2.6458333"
+       y="110.99644"
+       x="95.353813"
+       height="5.3922081"
+       width="15.388166"
+       id="badge-danger"
+       style="vector-effect:none;fill:#198754;fill-opacity:1;stroke:none;stroke-width:0.264582;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="2.6458333"><desc
+         id="desc3680">&lt;span class=&quot;badge badge-danger&quot;&gt;Danger&lt;/span&gt;</desc></rect><text
+       id="text7401"
+       y="117.0177"
+       x="95.175758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       transform="scale(1.0184451,0.98188896)"
+       inkscape:label="text"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="117.0177"
+         x="95.175758"
+         id="tspan7399"
+         sodipodi:role="line">Success</tspan></text></g></svg>
