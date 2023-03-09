@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="783.95001"
+   height="401.0231"
+   viewBox="0 0 207.4201 106.10403"
+   version="1.1"
+   id="svg321"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Carousel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview323"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.4064028"
+     inkscape:cx="391.77966"
+     inkscape:cy="200.51155"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs318" /><g
+     inkscape:label="Carousel"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.025363,-71.536964)"><rect
+       inkscape:label="rect"
+       y="71.536964"
+       x="1.025363"
+       height="106.10403"
+       width="207.4201"
+       id="carousel-inner"
+       style="opacity:1;vector-effect:none;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><desc
+         id="desc3690">&lt;div class=&quot;bd-example&quot;&gt;
+  &lt;div id=&quot;carouselExampleCaptions&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+    &lt;ol class=&quot;carousel-indicators&quot;&gt;
+      &lt;li data-target=&quot;#carouselExampleCaptions&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#carouselExampleCaptions&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+      &lt;li data-target=&quot;#carouselExampleCaptions&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;div class=&quot;carousel-inner&quot;&gt;
+      &lt;div class=&quot;carousel-item active&quot;&gt;
+        &lt;img src=&quot;...&quot; class=&quot;d-block w-100&quot; alt=&quot;...&quot;&gt;
+        &lt;div class=&quot;carousel-caption d-none d-md-block&quot;&gt;
+          &lt;h5&gt;First slide label&lt;/h5&gt;
+          &lt;p&gt;Nulla vitae elit libero, a pharetra augue mollis interdum.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;carousel-item&quot;&gt;
+        &lt;img src=&quot;...&quot; class=&quot;d-block w-100&quot; alt=&quot;...&quot;&gt;
+        &lt;div class=&quot;carousel-caption d-none d-md-block&quot;&gt;
+          &lt;h5&gt;Second slide label&lt;/h5&gt;
+          &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;carousel-item&quot;&gt;
+        &lt;img src=&quot;...&quot; class=&quot;d-block w-100&quot; alt=&quot;...&quot;&gt;
+        &lt;div class=&quot;carousel-caption d-none d-md-block&quot;&gt;
+          &lt;h5&gt;Third slide label&lt;/h5&gt;
+          &lt;p&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleCaptions&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+      &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleCaptions&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+      &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</desc></rect><g
+       id="g4068"
+       transform="translate(-0.95124422,-4.2333329)"
+       inkscape:label="carousel-indicators"><rect
+         y="174.03238"
+         x="111.5264"
+         height="0.94494045"
+         width="7.9138765"
+         id="li3"
+         style="vector-effect:none;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="button" /><rect
+         style="vector-effect:none;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="li2"
+         width="7.9138765"
+         height="0.94494045"
+         x="101.99429"
+         y="174.03238"
+         inkscape:label="button" /><rect
+         y="174.03238"
+         x="92.462219"
+         height="0.94494045"
+         width="7.9138765"
+         id="li1"
+         style="vector-effect:none;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="button class=&quot;active&quot;" /></g><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f1f1f1;fill-opacity:1;stroke-width:0.264583"
+       x="50.141384"
+       y="161.09354"
+       id="text15944"
+       inkscape:label="&lt;p&gt;Some representative placeholder content for the first slide.&lt;/p&gt;"><tspan
+         sodipodi:role="line"
+         id="tspan15942"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#f1f1f1;fill-opacity:1;stroke-width:0.264583"
+         x="50.141384"
+         y="161.09354">Some representative placeholder content for the first slide.</tspan></text><text
+       id="h5"
+       y="153.40138"
+       x="86.882233"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:label="&lt;h5&gt;First slide label&lt;/h5&gt;"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f1f1f1;fill-opacity:1;stroke-width:0.264583"
+         y="153.40138"
+         x="86.882233"
+         id="tspan851"
+         sodipodi:role="line">First slide label</tspan></text><path
+       fill="%23fff"
+       id="arrow"
+       d="m 191.91748,121.7168 a 0.27121924,0.27121924 0 0 1 0.38405,0 l 3.25463,3.25463 a 0.27121924,0.27121924 0 0 1 0,0.38404 l -3.25463,3.25463 a 0.27156186,0.27156186 0 0 1 -0.38405,-0.38404 l 3.06315,-3.06261 -3.06315,-3.06261 a 0.27121924,0.27121924 0 0 1 0,-0.38404 z"
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:4.71927"
+       inkscape:label="carousel-control-next-icon" /><path
+       fill="%23fff"
+       id="path13762"
+       d="m 20.220684,121.7168 a 0.27121924,0.27121924 0 0 0 -0.38405,0 l -3.25463,3.25463 a 0.27121924,0.27121924 0 0 0 0,0.38404 l 3.25463,3.25463 a 0.27156186,0.27156186 0 0 0 0.38405,-0.38404 l -3.06315,-3.06261 3.06315,-3.06261 a 0.27121924,0.27121924 0 0 0 0,-0.38404 z"
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:4.71927"
+       inkscape:label="carousel-control-prev-icon" /><text
+       xml:space="preserve"
+       style="font-size:12.3092px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       x="77.872147"
+       y="129.14482"
+       id="text549"
+       inkscape:label="First slide"><tspan
+         sodipodi:role="line"
+         id="tspan547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3092px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#555555;fill-opacity:1;stroke-width:0.264583"
+         x="77.872147"
+         y="129.14482">First slide</tspan></text></g></svg>
