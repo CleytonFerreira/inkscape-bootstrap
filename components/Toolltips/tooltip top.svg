@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="103.4883"
+   height="35.533192"
+   viewBox="0 0 27.381281 9.4014903"
+   version="1.1"
+   id="svg6910"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="tooltip top.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview6912"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="7.0442744"
+     inkscape:cx="50.04064"
+     inkscape:cy="17.744908"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs6907" /><g
+     inkscape:label="Tooltip"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.491563,-116.11281)"><g
+       inkscape:label="data-bs-toggle=&quot;tooltip&quot;"
+       id="layer1-3"
+       transform="translate(-98.347557,-15.924536)"><path
+         style="opacity:1;vector-effect:none;fill:#040404;fill-opacity:1;stroke:none;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 150.0375,132.03735 c -0.66375,0 -1.19838,0.55231 -1.19838,1.23868 v 5.23172 c 0,0.68637 0.53463,1.23869 1.19838,1.23869 h 24.98504 c 0.66375,0 1.19786,-0.55232 1.19786,-1.23869 v -5.23172 c 0,-0.68637 -0.53411,-1.23868 -1.19786,-1.23868 z m 10.73165,7.72614 0.88056,0.83768 0.88005,0.83767 0.88057,-0.83767 0.88005,-0.83768 h -1.76062 z"
+         id="rect5796"
+         inkscape:connector-curvature="0"
+         inkscape:label="data-bs-placement=&quot;top&quot;"><desc
+           id="desc4224">data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; title=&quot;Tooltip on top&quot;</desc></path><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74824px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#d7d7d7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="150.91809"
+         y="136.74944"
+         id="text5815"
+         inkscape:label="Tooltip on top"><tspan
+           sodipodi:role="line"
+           id="tspan5813"
+           x="150.91809"
+           y="136.74944"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#d7d7d7;fill-opacity:1;stroke-width:0.264583">Tooltip on top</tspan></text></g></g></svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="109.80272"
+   height="29.136719"
+   viewBox="0 0 29.051969 7.7090901"
+   version="1.1"
+   id="svg3712"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="tooltip left.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3714"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.4206058"
+     inkscape:cx="54.901361"
+     inkscape:cy="14.640363"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs3709" /><g
+     inkscape:label="Tooltip"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(173.09378,-152.1963)"><g
+       inkscape:label="data-bs-toggle=&quot;tooltip&quot;"
+       id="layer1-5"
+       transform="translate(-286.36103,19.6399)"><path
+         style="opacity:1;vector-effect:none;fill:#040404;fill-opacity:1;stroke:none;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 114.46563,132.5564 c -0.66376,0 -1.19838,0.55232 -1.19838,1.23868 v 5.23172 c 0,0.68637 0.53462,1.23869 1.19838,1.23869 h 24.98503 c 0.66376,0 1.19786,-0.55232 1.19786,-1.23869 v -0.85989 l 0.83303,-0.87592 0.83767,-0.88004 -0.83767,-0.88057 -0.83303,-0.8754 v -0.8599 c 0,-0.68636 -0.5341,-1.23868 -1.19786,-1.23868 z"
+         id="rect5804"
+         inkscape:connector-curvature="0"
+         inkscape:label="data-bs-placement=&quot;left&quot;"><desc
+           id="desc4204">data-toggle=&quot;tooltip&quot; data-placement=&quot;left&quot; title=&quot;Tooltip on left&quot;</desc></path><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.74824px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#d7d7d7;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="115.55922"
+         y="137.3571"
+         id="text5827"
+         inkscape:label="Tooltip on left"><tspan
+           sodipodi:role="line"
+           id="tspan5825"
+           x="115.55922"
+           y="137.3571"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#d7d7d7;fill-opacity:1;stroke-width:0.264583">Tooltip on left</tspan></text></g></g></svg>
