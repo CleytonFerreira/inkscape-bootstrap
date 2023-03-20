@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="781.1842"
+   height="16.188686"
+   viewBox="0 0 206.68832 4.2832566"
+   version="1.1"
+   id="svg355"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="progress bar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview357"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.31907345"
+     inkscape:cx="242.89078"
+     inkscape:cy="37.608895"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs352" />
+  <g
+     inkscape:label="Progress"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-127.23464,-344.58221)">
+    <rect
+       rx="1.5875"
+       inkscape:label="--bs-progress-bg"
+       ry="1.5875"
+       y="344.58221"
+       x="127.23464"
+       height="4.2832565"
+       width="206.68832"
+       id="rect1810"
+       style="display:inline;opacity:0.997;vector-effect:none;fill:#e9ecef;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97619">
+      <desc
+         id="desc1808">&lt;div class=&quot;progress&quot;&gt;
+  &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 100%&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;</desc>
+    </rect>
+    <rect
+       inkscape:label="--bs-progress-bar-bg"
+       y="344.58221"
+       x="127.23464"
+       height="4.2832565"
+       width="206.68832"
+       id="rect6293-6"
+       style="display:inline;opacity:0.997;vector-effect:none;fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97619"
+       clip-path="none">
+      <desc
+         id="desc4134-2">&lt;div class=&quot;progress&quot;&gt;
+  &lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; style=&quot;width: 100%&quot; aria-valuenow=&quot;100&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;</desc>
+    </rect>
+  </g>
+</svg>
