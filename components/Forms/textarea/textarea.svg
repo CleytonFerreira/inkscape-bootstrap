@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="782.40344"
+   height="86"
+   viewBox="0 0 207.01091 22.754167"
+   version="1.1"
+   id="svg24604"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="textarea.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview24606"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.80521118"
+     inkscape:cx="438.39431"
+     inkscape:cy="127.91675"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs24601" /><g
+     inkscape:label="textarea"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.992692,-172.70784)"><rect
+       rx="1.5875"
+       inkscape:label="form-control"
+       style="fill:#ffffff;fill-opacity:1;stroke:#dee2e6;stroke-width:0.264582;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4780"
+       width="206.74632"
+       height="22.489584"
+       x="16.124983"
+       y="172.84013"
+       ry="1.5875"><desc
+         id="desc3761">&lt;div class=&quot;form-group&quot;&gt;
+    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;exampleInput&quot; aria-describedby=&quot;&quot; placeholder=&quot;Input&quot;&gt;</desc></rect><path
+       inkscape:label="resizer"
+       inkscape:connector-curvature="0"
+       id="path838"
+       d="m 222.19127,192.79599 -1.973,1.98489 z m 0.18914,0.93327 -1.09916,1.11053 z"
+       style="fill:none;stroke:#d2d7dd;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></g></svg>

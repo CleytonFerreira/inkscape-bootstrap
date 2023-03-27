@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145.82521"
+   height="15.999999"
+   viewBox="0 0 38.582919 4.2333331"
+   version="1.1"
+   id="svg22470"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="dafault checkbox.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview22472"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="4.5465391"
+     inkscape:cx="72.912603"
+     inkscape:cy="7.9181108"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs22467" />
+  <g
+     inkscape:label="checkbox"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(49.494848,-82.201128)">
+    <rect
+       rx="1.0583333"
+       style="font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke:#dee2e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect5256"
+       width="3.96875"
+       height="3.96875"
+       x="-49.362556"
+       y="82.33342"
+       ry="1.0583333"
+       inkscape:label="form-check-input" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#212529;fill-opacity:1;stroke-width:0.264583"
+       x="-43.397774"
+       y="85.906326"
+       id="text4221"
+       inkscape:label="form-check-label"><tspan
+         sodipodi:role="line"
+         id="tspan4219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#212529;fill-opacity:1;stroke-width:0.264583"
+         x="-43.397774"
+         y="85.906326">Default checkbox</tspan></text>
+  </g>
+</svg>

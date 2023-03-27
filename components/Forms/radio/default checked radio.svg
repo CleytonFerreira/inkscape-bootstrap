@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.95039mm"
+   height="4.2333331mm"
+   viewBox="0 0 46.95039 4.2333331"
+   version="1.1"
+   id="svg40944"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="default checked radio.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview40946"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.8264237"
+     inkscape:cx="88.725146"
+     inkscape:cy="8.1015597"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs40941" />
+  <g
+     inkscape:label="radio"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.718302,-268.547)">
+    <rect
+       inkscape:label="form-check-input checked"
+       ry="26.458332"
+       rx="26.458332"
+       style="fill:#0d6efd;fill-opacity:1;stroke:#0d6efd;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect31474"
+       width="3.96875"
+       height="3.9687502"
+       x="39.850594"
+       y="268.67929" />
+    <rect
+       inkscape:label="--bs-form-check-bg-image"
+       ry="26.458332"
+       rx="26.458332"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect34380"
+       width="1.6573423"
+       height="1.6573424"
+       x="41.006294"
+       y="269.83499" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="46.005577"
+       y="272.32092"
+       id="text31472"
+       inkscape:label="form-check-label"><tspan
+         sodipodi:role="line"
+         id="tspan31470"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#212529;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="46.005577"
+         y="272.32092">Default checked radio</tspan></text>
+  </g>
+</svg>

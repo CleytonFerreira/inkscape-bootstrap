@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="263.88986"
+   height="18.06152"
+   viewBox="0 0 69.820858 4.778777"
+   version="1.1"
+   id="svg20662"
+   sodipodi:docname="disabled switch checkbox input.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20664"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.0284973"
+     inkscape:cx="163.42146"
+     inkscape:cy="8.8735636"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs20659" />
+  <g
+     inkscape:label="disabled switch checkbox input"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.32685977,-127.23349)">
+    <rect
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#dee2e6;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14474"
+       width="8.4666662"
+       height="4.2333331"
+       x="-8.9258175"
+       y="127.36578"
+       rx="1.5875"
+       ry="1.5875"
+       transform="scale(-1,1)"
+       inkscape:label="form-check-input" />
+    <circle
+       r="1.3916353"
+       fill="#ffffff"
+       id="circle14480"
+       cx="-2.520505"
+       cy="129.48245"
+       style="opacity:0.5;fill:#212529;fill-opacity:1;stroke:#212529;stroke-width:0.463878;stroke-opacity:1"
+       transform="scale(-1,1)"
+       inkscape:label="--bs-form-switch-bg" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;opacity:0.5;fill:#212529;fill-opacity:1;stroke-width:0.264583"
+       x="11.056801"
+       y="131.15237"
+       id="text14478"
+       inkscape:label="form-check-label"><tspan
+         sodipodi:role="line"
+         id="tspan14476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#212529;fill-opacity:1;stroke-width:0.264583"
+         x="11.056801"
+         y="131.15237">Disabled switch checkbox input</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="207.01091mm"
+   height="23.887035mm"
+   viewBox="0 0 207.01091 23.887035"
+   version="1.1"
+   id="svg11093"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="select options.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11095"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.91257268"
+     inkscape:cx="372.02516"
+     inkscape:cy="44.927929"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11090" />
+  <g
+     inkscape:label="options"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(200.408,-68.598856)">
+    <rect
+       inkscape:label="div"
+       style="fill:#ffffff;fill-opacity:1;stroke:#696969;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8911"
+       width="206.74632"
+       height="23.622452"
+       x="-200.27571"
+       y="68.731148">
+      <desc
+         id="desc8909">&lt;div class=&quot;form-group&quot;&gt;
+    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;exampleInput&quot; aria-describedby=&quot;&quot; placeholder=&quot;Input&quot;&gt;</desc>
+    </rect>
+    <text
+       inkscape:label="Three"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:0.74902;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       x="-197.0618"
+       y="91.042763"
+       id="text10179"><tspan
+         sodipodi:role="line"
+         id="tspan10177"
+         x="-197.0618"
+         y="91.042763"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#212529;fill-opacity:0.74902;stroke-width:0.264583;stroke-dasharray:none">Three</tspan></text>
+    <text
+       inkscape:label="Two"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:0.74902;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       x="-197.0618"
+       y="85.22184"
+       id="text10175"><tspan
+         sodipodi:role="line"
+         id="tspan10173"
+         x="-197.0618"
+         y="85.22184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#212529;fill-opacity:0.74902;stroke-width:0.264583;stroke-dasharray:none">Two</tspan></text>
+    <text
+       inkscape:label="One"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#212529;fill-opacity:0.74902;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       x="-197.20442"
+       y="79.665504"
+       id="text10171"><tspan
+         sodipodi:role="line"
+         id="tspan10169"
+         x="-197.20442"
+         y="79.665504"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#212529;fill-opacity:0.74902;stroke-width:0.264583;stroke-dasharray:none">One</tspan></text>
+    <rect
+       inkscape:label="selected"
+       style="font-variation-settings:normal;vector-effect:none;fill:#696969;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect10323"
+       width="206.50661"
+       height="6.0828891"
+       x="-200.16463"
+       y="68.777931">
+      <desc
+         id="desc10321">&lt;div class=&quot;form-group&quot;&gt;
+    &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;exampleInput&quot; aria-describedby=&quot;&quot; placeholder=&quot;Input&quot;&gt;</desc>
+    </rect>
+    <text
+       inkscape:label="Open this select menu"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.74902;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       x="-197.20442"
+       y="73.844582"
+       id="text10167"><tspan
+         sodipodi:role="line"
+         id="tspan10165"
+         x="-197.20442"
+         y="73.844582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:0.74902;stroke-width:0.264583;stroke-dasharray:none">Open this select menu</tspan></text>
+  </g>
+</svg>
